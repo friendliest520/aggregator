@@ -15,9 +15,19 @@
 1.注册[谷歌cola](https://colab.research.google.com/)
 2.在新建的笔记本中，运行以下命令以克隆项目仓库：
 ```
-!git clone https://github.com/friendlist520/aggregator.git
+!git clone https://github.com/friendliest520/aggregator.git
 ```
 
+3.安装依赖:
+  .进入克隆项目目录
+
+  ```
+  %cd aggregator
+  ```
+  .安装项目所需的 Python 依赖项：
+  ```
+  !pip install -r requirements.txt
+  ```
 
 ## 免责申明
 + 本项目仅用作学习爬虫技术，请勿滥用，不要通过此工具做任何违法乱纪或有损国家利益之事
