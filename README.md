@@ -37,6 +37,7 @@
 !python -u subscribe/collect.py -s
 ```
 运行成功会出现`/content/aggregator/data/clash.yaml', '/content/aggregator/data/v2ray.txt', '/content/aggregator/data/singbox.json`三个文件
+
 5.查看节点文件：点code输入以下代码
 
 ```
