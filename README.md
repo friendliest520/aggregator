@@ -19,7 +19,7 @@
 !git clone https://github.com/friendliest520/aggregator.git
 ```
 
-3.安装依赖:点code输代码
+3.安装依赖:
 
   3.1.进入克隆项目目录：点code输入以下代码
 
