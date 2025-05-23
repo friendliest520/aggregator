@@ -12,8 +12,11 @@
 > 欢迎 Star 及 PR。对于质量较高且普适的爬取目标，亦可在 Issues 中列出，将在评估后选择性添加
 
 ## 使用方法
-1.利用谷歌colab[直达](https://colab.research.google.com/)
-略，自行探索。我才不会告诉你入口是 `collect.py` 和 `process.py`。**强烈建议使用后者，前者只是个小玩具**，配置参考 `subscribe/config/config.default.json`，详细文档见 [DeepWiki](https://deepwiki.com/wzdnzd/aggregator)
+1.注册[谷歌cola](https://colab.research.google.com/)
+2.在新建的笔记本中，运行以下命令以克隆项目仓库：
+```
+!git clone https://github.com/friendlist520/aggregator.git
+```
 
 
 ## 免责申明
