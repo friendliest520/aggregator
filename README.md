@@ -20,15 +20,27 @@
 
 3.安装依赖:
 
-  进入克隆项目目录
+  3.1.进入克隆项目目录
 
   ```
   %cd aggregator
   ```
-  +安装项目所需的 Python 依赖项：
+  3.2.安装项目所需的 Python 依赖项：
   ```
   !pip install -r requirements.txt
   ```
+
+4.运行项目：
+
+```
+!python -u subscribe/collect.py -s
+```
+运行成功会出现clash.yaml,
+5.查看节点文件：
+
+```
+!cat /content/aggregator/data/clash.yaml
+```
 
 ## 免责申明
 + 本项目仅用作学习爬虫技术，请勿滥用，不要通过此工具做任何违法乱纪或有损国家利益之事
