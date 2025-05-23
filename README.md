@@ -19,12 +19,12 @@
 ```
 
 3.安装依赖:
-  .进入克隆项目目录
+  +进入克隆项目目录
 
   ```
   %cd aggregator
   ```
-  .安装项目所需的 Python 依赖项：
+  +安装项目所需的 Python 依赖项：
   ```
   !pip install -r requirements.txt
   ```
